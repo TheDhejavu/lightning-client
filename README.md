@@ -1,6 +1,6 @@
 # lightning-client
 
-The present bitcoin lightning network integration necessitates the deployment of a non-mining full node, as the lightning network must constantly monitor the blockchain. 
+The present bitcoin lightning network integration necessitates the deployment of a non-mining full node, as the lightning network must constantly monitor the blockchain. This is simple client that integrates with the bitcoin lightning node written in Node.js
 
 ## **Integration One**
 
