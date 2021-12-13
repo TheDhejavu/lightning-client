@@ -31,7 +31,7 @@ module.exports = (program) => {
     const lnd = require('./lnd')(lightning);
   
     // app creation =================
-    const app = express(); // create our app w/ express
+    const app = express(); 
     
     const sessionManager = session({
       secret: config.sessionSecret,
@@ -47,11 +47,11 @@ module.exports = (program) => {
     app.use(require('./cors')); 
     app.use(bodyParser.urlencoded({ extended: 'true' })); 
     app.use(bodyParser.json()); 
-    app.use(bodyParser.json({ type: 'application/vnd.api+json' })); // parse application/vnd.api+json as json
-    // app.use(methodOverride());
+    app.use(bodyParser.json({ type: 'application/vnd.api+json' })); 
+    
    
     app.use((err, req, res, next) => {
-        // Do logging and user-friendly error message display
+
         logger.error(err);
         res.status(500).send({ 
           status: 500, 
@@ -68,7 +68,6 @@ module.exports = (program) => {
     // setup routes =================
     require('./routes')(app, lightning, config);
   
-    // listen (start app with node server.js) ======================================
     server.listen(module.serverPort, module.serverHost);
   
     logger.info(`App listening on ${module.serverHost} port ${module.serverPort}`);

@@ -3,7 +3,7 @@ This is a simple client that integrates with the bitcoin lightning node written 
 
 **Notes:**
 
-The present bitcoin lightning network integration necessitates the deployment of a non-mining full node, as the lightning network must constantly monitor the blockchain.
+The present bitcoin lightning network integration necessitates the deployment of a non-mining full node, as the lightning network must constantly monitor the blockchain. 
 
 ## **Integration One**
 
@@ -33,11 +33,16 @@ This is the final and most complex integration; it requires us to run our own bi
 - Ride The Lightning (UI) [https://github.com/Ride-The-Lightning/RTL#intro](https://github.com/Ride-The-Lightning/RTL#intro)
 - Lightning network Demon (LND): [https://github.com/lightningnetwork/lnd](https://github.com/lightningnetwork/lnd)
 
-**Recommended**
+**Approach**
 
 - Buy a > 500GB SSD server
 - Install Bitcoin Core or BTCD
-- Sync the chain
+- Install and setup lightning node
+- Sync the bitcoin blockchain chain with the testnet/mainet depending on the environment
+- Integrate RTL (Lighting GUI)
+- implements lightning client/bridge that integrates with buycoins backend and start accepting payment  via lightning invoice
+
+![Blank diagram.png](/assets/lnd.png)
 
 ### **Pros of Lightning Network**
 
@@ -63,6 +68,5 @@ One has to acquire a wallet compatible with the Lightning Network to actually ta
 10. [https://docs.google.com/document/d/1r38-_IgtfOkhJh4QbN7l6bl7Rol05qS-i7BjM3AjKOQ/edit](https://docs.google.com/document/d/1r38-_IgtfOkhJh4QbN7l6bl7Rol05qS-i7BjM3AjKOQ/edit)
 11. [https://starblocks.acinq.co/order/587dc4614be6cc4024946de40148fa65ec1452e0e711aee3fe70927ea7866ddb](https://starblocks.acinq.co/order/587dc4614be6cc4024946de40148fa65ec1452e0e711aee3fe70927ea7866ddb)
 12. [https://www.theblockcrypto.com/post/108770/how-to-run-a-bitcoin-lightning-node-on-a-raspberry-pi-and-connect-it-to-your-phone](https://www.theblockcrypto.com/post/108770/how-to-run-a-bitcoin-lightning-node-on-a-raspberry-pi-and-connect-it-to-your-phone)
-13. [https://www.getpostman.com/collections/412e4494608fb27e7dbe](https://www.getpostman.com/collections/412e4494608fb27e7dbe)
-14. [https://medium.com/@yyforyongyu/till-its-lightning-fast-uncover-the-lightning-network-transactions-f3180e467857](https://medium.com/@yyforyongyu/till-its-lightning-fast-uncover-the-lightning-network-transactions-f3180e467857)
-15. [https://stopanddecrypt.medium.com/a-complete-beginners-guide-to-installing-a-lightning-node-on-linux-2021-edition-ece227cfc35d](https://stopanddecrypt.medium.com/a-complete-beginners-guide-to-installing-a-lightning-node-on-linux-2021-edition-ece227cfc35d)
+13. [https://medium.com/@yyforyongyu/till-its-lightning-fast-uncover-the-lightning-network-transactions-f3180e467857](https://medium.com/@yyforyongyu/till-its-lightning-fast-uncover-the-lightning-network-transactions-f3180e467857)
+14. [https://stopanddecrypt.medium.com/a-complete-beginners-guide-to-installing-a-lightning-node-on-linux-2021-edition-ece227cfc35d](https://stopanddecrypt.medium.com/a-complete-beginners-guide-to-installing-a-lightning-node-on-linux-2021-edition-ece227cfc35d)
