@@ -40,7 +40,7 @@ This is the final and most complex integration; it requires us to run our own bi
 - Install and setup lightning node
 - Sync the bitcoin blockchain chain with the testnet/mainet depending on the environment
 - Integrate RTL (Lighting GUI)
-- implements lightning client/bridge that integrates with buycoins backend and start accepting payment  via lightning invoice
+- implement lightning client/bridge that integrates with buycoins backend and start accepting payment  via lightning invoice
 
 ![Blank diagram.png](/assets/lnd.jpeg)
 
