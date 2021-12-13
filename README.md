@@ -4,7 +4,7 @@ The present bitcoin lightning network integration necessitates the deployment of
 
 ## **Integration One**
 
-[**GetUmbrel](https://getumbrel.com/)** is an interesting tool that allows us to run our personal server with a Bitcoin and Lightning node for free, both Lightning node demon (LND) and bitcoin core  comes out of the box but the project is still in beta and also has some security trades off ([https://github.com/getumbrel/umbrel/blob/master/SECURITY.md](https://github.com/getumbrel/umbrel/blob/master/SECURITY.md))
+[GetUmbrel](https://getumbrel.com/) is an interesting tool that allows us to run our personal server with a Bitcoin and Lightning node for free, both Lightning node demon (LND) and bitcoin core  comes out of the box but the project is still in beta and also has some security trades off ([https://github.com/getumbrel/umbrel/blob/master/SECURITY.md](https://github.com/getumbrel/umbrel/blob/master/SECURITY.md))
 
 **Benefits of using GetUmbrel:**
 
@@ -62,6 +62,4 @@ One has to acquire a wallet compatible with the Lightning Network to actually ta
 12. [https://www.theblockcrypto.com/post/108770/how-to-run-a-bitcoin-lightning-node-on-a-raspberry-pi-and-connect-it-to-your-phone](https://www.theblockcrypto.com/post/108770/how-to-run-a-bitcoin-lightning-node-on-a-raspberry-pi-and-connect-it-to-your-phone)
 13. [https://www.getpostman.com/collections/412e4494608fb27e7dbe](https://www.getpostman.com/collections/412e4494608fb27e7dbe)
 14. [https://medium.com/@yyforyongyu/till-its-lightning-fast-uncover-the-lightning-network-transactions-f3180e467857](https://medium.com/@yyforyongyu/till-its-lightning-fast-uncover-the-lightning-network-transactions-f3180e467857)
-15. [https://www.getpostman.com/collections/046e301b012eb7822e3d](https://www.getpostman.com/collections/046e301b012eb7822e3d)
-16. [https://meet.google.com/ous-ytbx-tmr](https://meet.google.com/ous-ytbx-tmr)'
-17. [https://stopanddecrypt.medium.com/a-complete-beginners-guide-to-installing-a-lightning-node-on-linux-2021-edition-ece227cfc35d](https://stopanddecrypt.medium.com/a-complete-beginners-guide-to-installing-a-lightning-node-on-linux-2021-edition-ece227cfc35d)
+15. [https://stopanddecrypt.medium.com/a-complete-beginners-guide-to-installing-a-lightning-node-on-linux-2021-edition-ece227cfc35d](https://stopanddecrypt.medium.com/a-complete-beginners-guide-to-installing-a-lightning-node-on-linux-2021-edition-ece227cfc35d)
