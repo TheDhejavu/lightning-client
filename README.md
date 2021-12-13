@@ -15,7 +15,7 @@ The present bitcoin lightning network integration necessitates the deployment of
 - We can Connect all of your favorite wallets E.G Trezor, Bluewallet, Ledger E.t.c
 - Independently store and validate every single Bitcoin transaction with our Bitcoin node.
 
-### **Integration Two**
+## **Integration Two**
 
 Integration with external providers 
 
@@ -23,7 +23,7 @@ Integration with external providers
 
 [LnPay.co](https://docs.lnpay.co/): LNPay also enables us to integrate the Lightning Network. 
 
-### Integration Three
+## **Integration Three**
 
 This is the final and most complex integration; it requires us to run our own bitcoin full-node and lightning network node that is not mining. It's the same as the first integration concept. The LND developers are still experiemting  with a bitcoin lite client built in Go called neurito. Neutrino does not require our machine to run and hence will not need to be configured separately. Using Neutrino instead of Bitcoind or btcd allows us to run our node in 'light mode,' which means it can run on low-powered devices like a phone without requiring as much storage or bandwidth as syncing our full bitcoin node.
 
