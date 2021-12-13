@@ -42,7 +42,7 @@ This is the final and most complex integration; it requires us to run our own bi
 - Integrate RTL (Lighting GUI)
 - implements lightning client/bridge that integrates with buycoins backend and start accepting payment  via lightning invoice
 
-![Blank diagram.png](/assets/lnd.jpg)
+![Blank diagram.png](/assets/lnd.jpeg)
 
 ### **Pros of Lightning Network**
 
