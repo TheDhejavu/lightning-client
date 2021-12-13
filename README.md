@@ -1,4 +1,4 @@
-# lightning-client
+# Lightning client
 
 The present bitcoin lightning network integration necessitates the deployment of a non-mining full node, as the lightning network must constantly monitor the blockchain. 
 
