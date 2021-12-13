@@ -1,5 +1,5 @@
 # Lightning client
-This is a simple client that integrates with the bitcoin lightning node written in Node.js. 
+This is a simple client that integrates with the bitcoin lightning node written in Node.js. This lightning client currently works with simnet. 
 
 **Notes:**
 
@@ -25,7 +25,7 @@ Integration with external providers
 
 ### Integration Three
 
-This is the final and most complex integration; it requires us to run our own bitcoin full-node and lightning network node that is not mining. It's the same as the first integration concept. The LND developers are still testing with neurito, a Bitcoin lite client built in Go. Neutrino does not require our machine to run and hence will not need to be configured separately. Using Neutrino instead of Bitcoind or btcd allows us to run our node in 'light mode,' which means it can run on low-powered devices like a phone without requiring as much storage or bandwidth as syncing our full bitcoin node.
+This is the final and most complex integration; it requires us to run our own bitcoin full-node and lightning network node that is not mining. It's the same as the first integration concept. The LND developers are still experiemting  with a bitcoin lite client built in Go called neurito. Neutrino does not require our machine to run and hence will not need to be configured separately. Using Neutrino instead of Bitcoind or btcd allows us to run our node in 'light mode,' which means it can run on low-powered devices like a phone without requiring as much storage or bandwidth as syncing our full bitcoin node.
 
 **Required Tools:**
 
