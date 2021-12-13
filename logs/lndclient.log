@@ -1,0 +1,96 @@
+{"level":"info","message":"Macaroon support is enabled. /Users/ayodejiakinola/go/dev/alice/data/chain/bitcoin/simnet/admin.macaroon","service":"lnd-client","timestamp":"2021-12-10 01:48:13"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-10 01:48:14"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-10 01:48:14"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-10 01:48:14"}
+{"level":"info","message":"App listening on localhost port 8280","service":"lnd-client","timestamp":"2021-12-10 01:48:14"}
+{"level":"info","message":"Macaroon support is enabled. /Users/ayodejiakinola/go/dev/alice/data/chain/bitcoin/simnet/admin.macaroon","service":"lnd-client","timestamp":"2021-12-10 01:48:21"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-10 01:48:21"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-10 01:48:21"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-10 01:48:21"}
+{"level":"info","message":"App listening on localhost port 8280","service":"lnd-client","timestamp":"2021-12-10 01:48:21"}
+{"level":"info","message":"Macaroon support is enabled. /Users/ayodejiakinola/go/dev/alice/data/chain/bitcoin/simnet/admin.macaroon","service":"lnd-client","timestamp":"2021-12-10 01:53:42"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-10 01:53:42"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-10 01:53:42"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-10 01:53:42"}
+{"level":"info","message":"App listening on localhost port 8280","service":"lnd-client","timestamp":"2021-12-10 01:53:42"}
+{"add_index":"1","amp_invoice_state":{},"amt_paid":"0","amt_paid_msat":"0","amt_paid_sat":"0","cltv_expiry":"40","creation_date":"1639098539","description_hash":{"data":[],"type":"Buffer"},"expiry":"86400","fallback_addr":"","features":{"14":{"is_known":true,"is_required":true,"name":"payment-addr"},"17":{"is_known":true,"is_required":false,"name":"multi-path-payments"},"9":{"is_known":true,"is_required":false,"name":"tlv-onion"}},"htlcs":[],"is_amp":false,"is_keysend":false,"level":"info","memo":"School Fees","message":"SubscribeInvoices Data","payment_addr":{"data":[35,108,249,94,184,186,58,151,12,44,243,151,48,89,105,113,4,103,79,9,3,72,205,202,28,153,55,161,11,197,64,62],"type":"Buffer"},"payment_request":"lnsb1u1psm929tpp5ye33szy7xf0sn9zyrmwse8x93vpw43uuxdpmag92wlyh8uhf6q8sdqj2d3ksmm0dssyvet9wvcqzpgxqyz5vqsp5ydk0jh4chgafwrpv7wtnqktfwyzxwncfqdyvmjsunym6zz79gqlq9qyyssqw9l07f55feevypujzjlkfrnjp0a4hcdlrs5nrfx9tf2xf6xuqkp30n0spdat08c7qcmev4zfqcwr5dnlk6ygrn5vac8a43ffe4d490sph0f8ct","private":false,"r_hash":{"data":[38,99,24,8,158,50,95,9,148,68,30,221,12,156,197,139,2,234,199,156,51,67,190,160,170,119,201,115,242,233,208,15],"type":"Buffer"},"r_preimage":{"data":[131,114,163,87,144,133,80,219,202,115,40,22,115,242,8,69,210,115,250,237,78,28,89,141,186,204,121,93,63,125,189,120],"type":"Buffer"},"route_hints":[],"service":"lnd-client","settle_date":"0","settle_index":"0","settled":false,"state":"OPEN","timestamp":"2021-12-10 02:08:59","value":"100","value_msat":"100000"}
+{"level":"info","message":"Macaroon support is enabled. /Users/ayodejiakinola/go/dev/alice/data/chain/bitcoin/simnet/admin.macaroon","service":"lnd-client","timestamp":"2021-12-10 02:17:36"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-10 02:17:36"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-10 02:17:36"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-10 02:17:36"}
+{"level":"info","message":"App listening on localhost port 8280","service":"lnd-client","timestamp":"2021-12-10 02:17:36"}
+{"level":"info","message":"Macaroon support is enabled. /Users/ayodejiakinola/go/dev/alice/data/chain/bitcoin/simnet/admin.macaroon","service":"lnd-client","timestamp":"2021-12-13 01:05:36"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-13 01:05:36"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:05:36"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-13 01:05:36"}
+{"level":"info","message":"App listening on localhost port 8280","service":"lnd-client","timestamp":"2021-12-13 01:05:36"}
+{"level":"info","message":"Macaroon support is enabled. /Users/ayodejiakinola/go/dev/alice/data/chain/bitcoin/simnet/admin.macaroon","service":"lnd-client","timestamp":"2021-12-13 01:06:18"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-13 01:06:18"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:06:18"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-13 01:06:18"}
+{"level":"info","message":"App listening on localhost port 8280","service":"lnd-client","timestamp":"2021-12-13 01:06:18"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:07:24"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:07:45"}
+{"add_index":"2","amp_invoice_state":{},"amt_paid":"0","amt_paid_msat":"0","amt_paid_sat":"0","cltv_expiry":"40","creation_date":"1639354065","description_hash":{"data":[],"type":"Buffer"},"expiry":"86400","fallback_addr":"","features":{"14":{"is_known":true,"is_required":true,"name":"payment-addr"},"17":{"is_known":true,"is_required":false,"name":"multi-path-payments"},"9":{"is_known":true,"is_required":false,"name":"tlv-onion"}},"htlcs":[],"is_amp":false,"is_keysend":false,"level":"info","memo":"School Fees","message":"SubscribeInvoices Data","payment_addr":{"data":[200,245,114,51,126,195,103,215,195,59,200,241,66,27,98,164,99,94,19,225,170,13,243,43,170,46,88,134,194,223,83,223],"type":"Buffer"},"payment_request":"lnsb1u1psmdrk3pp58qp5twynf3jfel4qgnd5rqzk9z4x5lpx29uj5q6ruw4hz28hdzxsdqj2d3ksmm0dssyvet9wvcqzpgxqyz5vqsp5er6hyvm7cdna0semerc5yxmz5334uylp4gxlx2a29evgdskl200s9qyyssq8q4jj8acezzqdglt8r78w5zfjd8rytu8znjdxhgncl2f00wmvmz4wf89ltn6mxvphsw20xhze57hv76fjyg0cxs4wj9mnrep8anh0cqpj0kw68","private":false,"r_hash":{"data":[56,3,69,184,147,76,100,156,254,160,68,219,65,128,86,40,170,106,124,38,81,121,42,3,67,227,171,113,40,247,104,141],"type":"Buffer"},"r_preimage":{"data":[184,241,45,67,238,80,165,104,176,6,38,128,239,245,11,89,209,122,62,198,222,12,82,118,211,207,74,207,51,162,39,158],"type":"Buffer"},"route_hints":[],"service":"lnd-client","settle_date":"0","settle_index":"0","settled":false,"state":"OPEN","timestamp":"2021-12-13 01:07:45","value":"100","value_msat":"100000"}
+{"code":0,"details":"","level":"info","message":"SubscribeInvoices Status","metadata":{"_internal_repr":{},"flags":0},"service":"lnd-client","timestamp":"2021-12-13 01:08:11"}
+{"level":"info","message":"SubscribeInvoices End","service":"lnd-client","timestamp":"2021-12-13 01:08:11"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-13 01:08:11"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:08:11"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-13 01:08:11"}
+{"code":2,"details":"invoice registry shutting down","level":"info","message":"SubscribeInvoices Error 2 UNKNOWN: invoice registry shutting down","metadata":{"_internal_repr":{},"flags":0},"service":"lnd-client","stack":"Error: 2 UNKNOWN: invoice registry shutting down\n    at Object.exports.createStatusError (/Users/ayodejiakinola/Documents/lightning-client/node_modules/grpc/src/common.js:91:15)\n    at ClientReadableStream._emitStatusIfDone (/Users/ayodejiakinola/Documents/lightning-client/node_modules/grpc/src/client.js:233:26)\n    at ClientReadableStream._receiveStatus (/Users/ayodejiakinola/Documents/lightning-client/node_modules/grpc/src/client.js:211:8)\n    at Object.onReceiveStatus (/Users/ayodejiakinola/Documents/lightning-client/node_modules/grpc/src/client_interceptors.js:1277:15)\n    at InterceptingListener._callNext (/Users/ayodejiakinola/Documents/lightning-client/node_modules/grpc/src/client_interceptors.js:568:42)\n    at InterceptingListener.onReceiveStatus (/Users/ayodejiakinola/Documents/lightning-client/node_modules/grpc/src/client_interceptors.js:618:8)\n    at /Users/ayodejiakinola/Documents/lightning-client/node_modules/grpc/src/client_interceptors.js:1033:24","timestamp":"2021-12-13 01:08:11"}
+{"code":2,"details":"invoice registry shutting down","level":"info","message":"SubscribeInvoices Status","metadata":{"_internal_repr":{},"flags":0},"service":"lnd-client","timestamp":"2021-12-13 01:08:11"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:09:28"}
+{"level":"info","message":"Macaroon support is enabled. /Users/ayodejiakinola/go/dev/alice/data/chain/bitcoin/simnet/admin.macaroon","service":"lnd-client","timestamp":"2021-12-13 01:10:39"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-13 01:10:39"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:10:39"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-13 01:10:39"}
+{"level":"info","message":"App listening on localhost port 8280","service":"lnd-client","timestamp":"2021-12-13 01:10:39"}
+{"level":"info","message":"Macaroon support is enabled. /Users/ayodejiakinola/go/dev/alice/data/chain/bitcoin/simnet/admin.macaroon","service":"lnd-client","timestamp":"2021-12-13 01:11:18"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-13 01:11:18"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:11:18"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-13 01:11:18"}
+{"level":"info","message":"App listening on localhost port 8280","service":"lnd-client","timestamp":"2021-12-13 01:11:18"}
+{"level":"info","message":"Macaroon support is enabled. /Users/ayodejiakinola/go/dev/alice/data/chain/bitcoin/simnet/admin.macaroon","service":"lnd-client","timestamp":"2021-12-13 01:12:59"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-13 01:12:59"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:12:59"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-13 01:12:59"}
+{"level":"info","message":"App listening on localhost port 8280","service":"lnd-client","timestamp":"2021-12-13 01:12:59"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:14:08"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:14:22"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:14:27"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:16:13"}
+{"level":"info","message":"Macaroon support is enabled. /Users/ayodejiakinola/go/dev/alice/data/chain/bitcoin/simnet/admin.macaroon","service":"lnd-client","timestamp":"2021-12-13 01:16:30"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-13 01:16:30"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:16:30"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-13 01:16:30"}
+{"level":"info","message":"App listening on localhost port 8280","service":"lnd-client","timestamp":"2021-12-13 01:16:30"}
+{"code":2,"details":"Stream removed","level":"info","message":"SubscribeInvoices Error 2 UNKNOWN: Stream removed","metadata":{"_internal_repr":{},"flags":0},"service":"lnd-client","stack":"Error: 2 UNKNOWN: Stream removed\n    at Object.exports.createStatusError (/Users/ayodejiakinola/Documents/lightning-client/node_modules/grpc/src/common.js:91:15)\n    at ClientReadableStream._emitStatusIfDone (/Users/ayodejiakinola/Documents/lightning-client/node_modules/grpc/src/client.js:233:26)\n    at ClientReadableStream._receiveStatus (/Users/ayodejiakinola/Documents/lightning-client/node_modules/grpc/src/client.js:211:8)\n    at Object.onReceiveStatus (/Users/ayodejiakinola/Documents/lightning-client/node_modules/grpc/src/client_interceptors.js:1277:15)\n    at InterceptingListener._callNext (/Users/ayodejiakinola/Documents/lightning-client/node_modules/grpc/src/client_interceptors.js:568:42)\n    at InterceptingListener.onReceiveStatus (/Users/ayodejiakinola/Documents/lightning-client/node_modules/grpc/src/client_interceptors.js:618:8)\n    at /Users/ayodejiakinola/Documents/lightning-client/node_modules/grpc/src/client_interceptors.js:1033:24","timestamp":"2021-12-13 01:16:41"}
+{"code":2,"details":"Stream removed","level":"info","message":"SubscribeInvoices Status","metadata":{"_internal_repr":{},"flags":0},"service":"lnd-client","timestamp":"2021-12-13 01:16:41"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:16:53"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:17:33"}
+{"level":"info","message":"Macaroon support is enabled. /Users/ayodejiakinola/go/dev/alice/data/chain/bitcoin/simnet/admin.macaroon","service":"lnd-client","timestamp":"2021-12-13 01:17:55"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-13 01:17:55"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 01:17:55"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-13 01:17:55"}
+{"level":"info","message":"App listening on localhost port 8280","service":"lnd-client","timestamp":"2021-12-13 01:17:55"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 07:39:38"}
+{"level":"info","message":"Macaroon support is enabled. /Users/ayodejiakinola/go/dev/alice/data/chain/bitcoin/simnet/admin.macaroon","service":"lnd-client","timestamp":"2021-12-13 08:27:16"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-13 08:27:16"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 08:27:16"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-13 08:27:16"}
+{"level":"info","message":"App listening on localhost port 8280","service":"lnd-client","timestamp":"2021-12-13 08:27:16"}
+{"level":"info","message":"Macaroon support is enabled. /Users/ayodejiakinola/go/dev/alice/data/chain/bitcoin/simnet/admin.macaroon","service":"lnd-client","timestamp":"2021-12-13 08:27:24"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-13 08:27:24"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 08:27:24"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-13 08:27:24"}
+{"level":"info","message":"App listening on localhost port 8280","service":"lnd-client","timestamp":"2021-12-13 08:27:24"}
+{"level":"info","message":"Macaroon support is enabled. /Users/ayodejiakinola/go/dev/alice/data/chain/bitcoin/simnet/admin.macaroon","service":"lnd-client","timestamp":"2021-12-13 08:27:26"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-13 08:27:26"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 08:27:26"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-13 08:27:26"}
+{"level":"info","message":"App listening on localhost port 8280","service":"lnd-client","timestamp":"2021-12-13 08:27:26"}
+{"level":"info","message":"Macaroon support is enabled. /Users/ayodejiakinola/go/dev/alice/data/chain/bitcoin/simnet/admin.macaroon","service":"lnd-client","timestamp":"2021-12-13 08:27:45"}
+{"level":"info","message":"Opening lnd invoices subscription stream...","service":"lnd-client","timestamp":"2021-12-13 08:27:45"}
+{"level":"info","message":"Recreating active client","service":"lnd-client","timestamp":"2021-12-13 08:27:45"}
+{"level":"info","message":"Lnd invoices subscription stream opened.","service":"lnd-client","timestamp":"2021-12-13 08:27:45"}
+{"level":"info","message":"App listening on localhost port 8280","service":"lnd-client","timestamp":"2021-12-13 08:27:45"}
